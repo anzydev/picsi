@@ -1,4 +1,4 @@
-# AI Images
+# AI Images Imagined
 
 This repository contains **AI-generated images**.
 
